@@ -42,6 +42,7 @@ public class BBCRegistrationTest extends BaseTest{
         //check 'your account' caption for personal account link on site
         //which means you have an account from the moment
         HomePage homePage = new HomePage(driver);
+        homePage.waitForAccountNameChanged(driver);
         assertEquals("Your account", homePage.getAccountLinkInnerText());
     }
 }
