@@ -11,5 +11,5 @@
 4. Press Ctrl+Shift+F10 for running test for the first time (Shift+F10 for following attempts).
 
 _Note:_ If message "session not created: This version of ChromeDriver only supports Chrome version 'version №'" appears, 
-your chrome version is incompatible with chromeDriver version (implemented for version 75), so you can download 
+your chrome version is incompatible with chromeDriver version (implemented for version 80), so you can download 
 suitable chrome driver version [here](http://chromedriver.chromium.org/downloads) and should place it in *BBCTestTask\src\main\resources* folder.
