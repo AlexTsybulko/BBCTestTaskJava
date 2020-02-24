@@ -1,4 +1,4 @@
-# BBCTestTask
+# BBCTestTaskJava
 
 - Prerequisites: for running test you should have installed [IntellijIdea](https://www.jetbrains.com/idea/download/#section=windows) and [Google Chrome browser](https://www.google.ru/intl/ru/chrome/?brand=CHBD&gclid=Cj0KCQjwxYLoBRCxARIsAEf16-sx6--sZ-WPL-TBg_QWWB-HaH6t6ZnYa9DbYQLEgrKVsOHpwCwWCpcaAuQQEALw_wcB&gclsrc=aw.ds) 
 
